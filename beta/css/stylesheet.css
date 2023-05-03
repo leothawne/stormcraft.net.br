@@ -2,10 +2,15 @@
 
 body {
 	font-family: Helvetica;
-	margin: 0;
-	font-family: Lato;
+	/*margin: 0;*/
+	display: flex;
+	padding: 0 35px;
+	min-height: 100vh;
+	/*font-family: Lato;*/
 	color: #222;
-	box-sizing: border-box;
+	/*box-sizing: border-box;*/
+	align-items: center;
+	justify-content: center;
 }
 
 p {
